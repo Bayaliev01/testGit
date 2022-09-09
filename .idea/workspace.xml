@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7ce774-41e9-40c0-99cc-958b2ee16191" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/peaksoft/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/peaksoft/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/peaksoft/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/peaksoft/Autobaza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/peaksoft/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -75,6 +72,7 @@
       <workItem from="1662736852698" duration="6000" />
       <workItem from="1662736999768" duration="27000" />
       <workItem from="1662737287618" duration="151000" />
+      <workItem from="1662741179870" duration="2518000" />
     </task>
     <servers />
   </component>
